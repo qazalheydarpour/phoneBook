@@ -1,0 +1,39 @@
+form{
+    margin-top:25px;
+    display:inline-block;
+    margin-left: 13%;
+  }
+  
+  .container span{
+      margin-bottom:10px; 
+      display:inline-block;
+  }
+  
+  .container span:last-child{
+     margin-bottom:-11px;
+  }
+  
+  input{
+    border:none;
+    outline:none;
+    display:inline-block;
+    height:20px;
+    vertical-align:middle;
+    position:relative;
+    bottom:14px;
+    right:9px;
+    border-radius:22px;
+    width:220px;
+    box-sizing:border-box;
+    padding:0 18px; 
+  }
+  
+  input[type="button"]{ 
+      margin-top: 15px;
+    background: black;
+     color:white;
+     height:30px;
+     width:100px;
+     text-shadow:none;
+     
+  }
